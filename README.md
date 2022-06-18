@@ -14,16 +14,15 @@ The purpose of the following analysis is to determine the number of retiring emp
 - Most of those positions will be of *Senior Engineer* and *Senior Staff*.  
 - Out of all the positions only two are *managers* which seems  odd considering the total number of positions.
 
-
-##Summary
-
-- As mentioned before there will be 72,458 roles that will need to be filled.
-
 - **NUMBER OF RETIRING EMPLOYEES BY DEPARTMENT**
 
 ![retirement_dept](https://user-images.githubusercontent.com/104289098/174457241-e3767b22-a5f7-4628-aaa8-b86dede08fa4.png)
 
+##Summary
+- How many roles will need to be filles as the 'silver tsunami" begins to make impact?
+- As mentioned before there will be 72,458 roles that will need to be filled.
 
+- Are there enough qualified, retirement ready employees in the departments to mentor the next generation of Pewlett-Hackard employees?
 - There are a total of 1549 employees ready for the mentorship program which is not nearly enough considering all the positions that will need to be filled. 
 
  - **TOTAL NUMBER OF MENTORSHIP ELIGIBLE EMPLOYEES**
