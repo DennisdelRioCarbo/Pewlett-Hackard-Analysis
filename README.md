@@ -21,6 +21,8 @@ C:\Users\12506\Desktop\Data Analytics\Git Hub Repository\Pewlett-Hackard-Analysi
 ##Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
 C:\Users\12506\Desktop\Data Analytics\Git Hub Repository\Pewlett-Hackard-Analysis\Total mentorship eligibility.png
+![Total mentorship eligibility](https://user-images.githubusercontent.com/104289098/174457160-e16e2934-d01c-4acc-8835-588e856be12f.png)
+
 - There are a total of 1549 employees ready for the mentorship program 
 
 
