@@ -39,3 +39,10 @@ emp_no int pk fk -< Employees.emp_no
 title varchar
 from_date date
 to_date date
+
+current_emp
+-
+emp_no
+first_name
+last_name
+to_date
