@@ -1,10 +1,10 @@
 # Pewlett-Hackard-Analysis
 
-**##Overview**
+## **Overview**
 
 The purpose of the following analysis is to determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program to help prepare Bobby’s manager for the “silver tsunami” as many current employees reach retirement age.
 
-##Results
+## Results
 - If we look at the retiring_titles table below, we can see that there will be a total of 72,458 positions that will need to be filled.
 
 RETIRING TITLES
@@ -20,7 +20,7 @@ NUMBER OF RETIRING EMPLOYEES BY DEPARTMENT
 
 - The departments that will see the greater amount of employees retiring will be *Production, Development* and *Sales*.
 
-**##Summary**
+## **Summary**
 - How many roles will need to be filles as the 'silver tsunami" begins to make impact?
   - As mentioned before there will be 72,458 roles that will need to be filled.
 
